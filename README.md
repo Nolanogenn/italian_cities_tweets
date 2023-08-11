@@ -1,7 +1,7 @@
 ## Tweets on Italian Cities
 
-Dataset used for the publication Narrating the city during the COVID19 lockdown in Italy. \\
-It can be accessed at the following link: [www.gnolano.xyz/data/italian\_cities\_tweets.csv](www.gnolano.xyz/data/italian\_cities\_tweets.csv).\\
+Dataset used for the publication Narrating the city during the COVID19 lockdown in Italy.\
+It can be accessed at the following link: [www.gnolano.xyz/data/italian\_cities\_tweets.csv](www.gnolano.xyz/data/italian\_cities\_tweets.csv).\
 
 Each row has the following information:
 * **id** of the specific row;
